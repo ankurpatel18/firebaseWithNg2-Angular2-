@@ -1,5 +1,7 @@
 # Google firebase connectivity with Angular2 - using "angular-cli" 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/31bc215fb4d94697abe967a716f2ce2f)](https://app.codacy.com/app/ankurpatel18/firebaseWithNg2-Angular2-?utm_source=github.com&utm_medium=referral&utm_content=ankurpatel18/firebaseWithNg2-Angular2-&utm_campaign=Badge_Grade_Dashboard)
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.10.
 
 ## Development server
